@@ -4,8 +4,8 @@ Welcome to my GitHub profile. Here are some of my featured projects and applicat
 
 ### 🚀 Projects
 
-* 📊 **[FlowAnalyzer](https://flowanalyzer.io)** – Web application for pressurized pipe network analysis.
 * ⚡ **[Watdis](https://watdis.com)** – Professional QA toolkit and hydraulic validation for pipe network design.
+* 📊 **[FlowAnalyzer](https://flowanalyzer.io)** – Web application for pressurized pipe network analysis.
 
 ---
 ### 📬 Connect with me
